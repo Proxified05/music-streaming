@@ -1,4 +1,4 @@
-package com.proxified.music_streaming;
+package com.se2.music_streaming;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
